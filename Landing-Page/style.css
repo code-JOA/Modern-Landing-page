@@ -73,3 +73,7 @@ body {
   margin-top: 50px;
   background-color: yellow;
 }
+
+#hero img {
+  height: 90%;
+}
