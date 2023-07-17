@@ -75,4 +75,6 @@ body {
 }
 
 #hero img {
+  height: 90%;
+  vertical-align: middle;
 }
