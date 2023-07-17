@@ -45,6 +45,6 @@ body {
 
 #playbtn {
   display: flex;
-  width: 20%;
-  background-color: yellow;
+  width: 22%;
+  /* background-color: yellow; */
 }
