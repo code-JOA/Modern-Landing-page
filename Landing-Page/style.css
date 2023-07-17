@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   /* font-family: "hatton"; */
-  font-family: "Voyage";
+  font-family: "Voyage Roman";
   box-sizing: border-box;
 }
 
@@ -90,7 +90,8 @@ body {
 
 #hero h1 #line {
   display: inline-block;
-  font-size: 650px;
+  width: 300px;
+  /* font-size: 650px; */
   height: 4px;
   background: #fff;
 }
