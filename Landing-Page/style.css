@@ -83,14 +83,14 @@ body {
 }
 
 #hero h1 {
-  font-size: 190px;
+  font-size: 90px;
   position: absolute;
   font-weight: 100;
 }
 
 #hero h1 #line {
   display: inline-block;
-  width: 300px;
+  width: 90px;
   /* font-size: 650px; */
   height: 4px;
   vertical-align: middle;
