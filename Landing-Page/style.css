@@ -83,10 +83,11 @@ body {
 }
 
 #hero h1 {
-  font-size: 160px;
+  font-size: 390px;
   position: absolute;
   font-weight: 100;
 }
 
-#hero span {
+#hero h1 span {
+  font-size: 650px;
 }
