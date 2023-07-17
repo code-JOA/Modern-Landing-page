@@ -88,6 +88,9 @@ body {
   font-weight: 100;
 }
 
-#hero #line {
+#hero h1 #line {
+  display: inline-block;
   font-size: 650px;
+  height: 4px;
+  background: #fff;
 }
