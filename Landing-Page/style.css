@@ -74,7 +74,7 @@ body {
   top: 50%;
   transform: translate(0, -50%);
   /* margin-top: 50px; */
-  background-color: rgb(43, 217, 28);
+  /* background-color: rgb(43, 217, 28); */
 }
 
 #hero img {
