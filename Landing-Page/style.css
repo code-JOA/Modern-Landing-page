@@ -53,3 +53,7 @@ body {
 #playbtn i {
   font-size: 30px;
 }
+
+#playbtn p {
+  font-size: 12px;
+}
