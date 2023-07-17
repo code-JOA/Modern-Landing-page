@@ -30,3 +30,8 @@ body {
 .lrow {
   width: 50%;
 }
+
+.lrow a {
+  color: #fff;
+  text-decoration: none;
+}
