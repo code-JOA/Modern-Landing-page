@@ -83,7 +83,7 @@ body {
 }
 
 #hero h1 {
-  font-size: 390px;
+  font-size: 190px;
   position: absolute;
   font-weight: 100;
 }
@@ -93,5 +93,6 @@ body {
   width: 300px;
   /* font-size: 650px; */
   height: 4px;
+  vertical-align: middle;
   background: #fff;
 }
