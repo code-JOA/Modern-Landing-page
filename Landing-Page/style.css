@@ -24,7 +24,7 @@ body {
   width: 270px;
   height: 160px;
   /* background-color: yellow; */
-  /* border: 2px solid yellow; */
+  border: 2px solid yellow;
 }
 
 .lrow {
@@ -32,6 +32,7 @@ body {
 }
 
 .lrow a {
+  display: block;
   color: #fff;
   text-decoration: none;
 }
