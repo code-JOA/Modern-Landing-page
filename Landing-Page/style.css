@@ -45,6 +45,7 @@ body {
 
 #playbtn {
   display: flex;
+  align-items: center;
   width: 22%;
   /* background-color: yellow; */
 }
