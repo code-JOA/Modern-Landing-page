@@ -83,5 +83,6 @@ body {
 }
 
 #hero h1 {
-  font-size: ;
+  font-size: 160px;
+  position: absolute;
 }
