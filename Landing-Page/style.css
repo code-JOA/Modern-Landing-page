@@ -80,3 +80,7 @@ body {
 #hero img {
   height: 90%;
 }
+
+#hero h1 {
+  font-family: serif;
+}
