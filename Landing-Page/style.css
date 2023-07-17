@@ -22,9 +22,9 @@ body {
 #links {
   display: flex;
   width: 270px;
-  height: 160px;
+  /* height: 160px; */
   /* background-color: yellow; */
-  border: 2px solid yellow;
+  /* border: 2px solid yellow; */
 }
 
 .lrow {
@@ -37,4 +37,5 @@ body {
   /* font-family: "helvetica"; */
   font-family: "Gilroy";
   text-decoration: none;
+  margin-top: 7px;
 }
