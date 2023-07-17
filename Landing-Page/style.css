@@ -48,6 +48,7 @@ body {
   align-items: center;
   width: 22%;
   /* background-color: yellow; */
+  margin-top: 40px;
 }
 
 #playbtn i {
