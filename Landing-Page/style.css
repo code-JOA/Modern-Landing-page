@@ -46,7 +46,8 @@ body {
 #playbtn {
   display: flex;
   align-items: center;
-  width: 22%;
+  /* width: 22%; */
+  width: 15%;
   /* background-color: yellow; */
   margin-top: 40px;
 }
@@ -59,4 +60,5 @@ body {
   font-size: 12px;
   font-family: "Gilroy";
   margin-left: 10px;
+  font-weight: 200;
 }
