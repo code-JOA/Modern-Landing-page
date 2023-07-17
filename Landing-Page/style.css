@@ -34,5 +34,7 @@ body {
 .lrow a {
   display: block;
   color: #fff;
+  /* font-family: "helvetica"; */
+  font-family: "Gilroy";
   text-decoration: none;
 }
