@@ -84,6 +84,7 @@ body {
 
 #hero h1 {
   font-size: 290px;
+  z-index: inherit;
   position: absolute;
   font-weight: 100;
 }
