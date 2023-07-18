@@ -2,4 +2,6 @@
 
 <!-- ![Repo List](img/image.png) -->
 
-<img src='./Landing-Page/img/image.png'/>
+<!-- <img src='./Landing-Page/img/image.png'/> -->
+
+<img src="Landing-Page/image.png"/>
