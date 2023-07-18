@@ -15,11 +15,10 @@ t1.from(".lrow a", {
 }, '-=1');
 
 .from("#hero img", {
-
   opacity: 0,
-  y: 30,
-  duration: 2
-  ease: ""
+  y: 20,
+  duration: 2,
+  ease: "Expo.easeInOut"
 }, '-=1.5');
 
 
