@@ -8,7 +8,7 @@ t1.from(".lrow", {
   x: 0,
 });
 
-t1.from(".lrow", {
+.from(".lrow", {
   stagger: 0.2,
   opacity: 0,
   x: 0,
