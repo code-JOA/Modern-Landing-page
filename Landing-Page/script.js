@@ -17,8 +17,8 @@ t1.from(".lrow a", {
 .from("#hero img", {
   stagger: .2,
   opacity: 0,
-  x: 10,
-}, '-=1');
+  y: 30,
+}, '-=1.5');
 
 
 
