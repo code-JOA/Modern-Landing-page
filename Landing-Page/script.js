@@ -15,9 +15,11 @@ t1.from(".lrow a", {
 }, '-=1');
 
 .from("#hero img", {
-  stagger: .2,
+
   opacity: 0,
   y: 30,
+  duration: 2
+  ease: ""
 }, '-=1.5');
 
 
