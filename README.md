@@ -1,3 +1,3 @@
 # Modern-Landing-page
 
-![Repo List](img/image.png)
+![](img/image.png)
