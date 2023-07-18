@@ -1,1 +1,1 @@
-$("#anim").textillate({ in: { effect: "fadeInOut" } });
+$("#anim").textillate({ in: { effect: "fadeInOut", delay: 100 } });
