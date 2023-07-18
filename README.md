@@ -1,7 +1,15 @@
 # Modern-Landing-page
 
-<!-- ![Repo List](img/image.png) -->
+## This is the new template for the upcoming dribbble.com campaign
 
-<!-- <img src='./Landing-Page/img/image.png'/> -->
+### remix icon cdn
 
-<img src="Landing-Page/image.png"/>
+### textillatejs
+
+### jquerry cdn
+
+### animate.style
+
+### letteringjs
+
+<img src="Landing-Page/image1.png"/>
