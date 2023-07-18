@@ -12,7 +12,15 @@ t1.from(".lrow a", {
   stagger: .2,
   opacity: 0,
   x: 10,
-});
+}, '-=1');
+
+.from("#playbtn .anm", {
+  stagger: .2,
+  opacity: 0,
+  x: 10,
+}, '-=1');
+
+
 
 
 
