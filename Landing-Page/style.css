@@ -87,6 +87,8 @@ body {
   /* z-index: 99; */
   position: absolute;
   font-weight: 100;
+  /* optional double text-shadow - very nice */
+  /* text-shadow: 0 10px 10px; */
   text-shadow: 0 10px 4px rgb(212, 26, 26);
 }
 
