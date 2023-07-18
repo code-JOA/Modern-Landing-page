@@ -84,9 +84,10 @@ body {
 
 #hero h1 {
   font-size: 290px;
-  z-index: 99;
+  /* z-index: 99; */
   position: absolute;
   font-weight: 100;
+  text-shadow: 0 10px;
 }
 
 #hero h1 #line {
