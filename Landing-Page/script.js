@@ -2,6 +2,8 @@
 
 const t1 = new gsap.timeline();
 
-t1.from(".lrow", stagger {
-    
+t1.from(".lrow", {
+  stagger: 0.2,
+  opacity: 0,
+  x: 0,
 });
