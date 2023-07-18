@@ -1,3 +1,3 @@
 $(function () {
-  $("#anim").textillate();
+  $("#anim").textillate(fadeInUp);
 });
