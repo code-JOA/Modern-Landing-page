@@ -1,3 +1,5 @@
 $(function () {
-  $("#anim").textillate(fadeInUp);
+  $("#anim").textillate();
 });
+
+$("#anim").textillate({ in: { effect: "fadeInOut" } });
