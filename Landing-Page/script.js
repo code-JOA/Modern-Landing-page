@@ -14,7 +14,7 @@ t1.from(".lrow a", {
   x: 10,
 }, '-=1');
 
-.from("#playbtn .anm", {
+.from("#hero img", {
   stagger: .2,
   opacity: 0,
   x: 10,
