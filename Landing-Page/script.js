@@ -8,7 +8,7 @@ t1.from(".lrow a", {
   x: 10,
 });
 
-t1.from(
+.from(
   "#playbtn .anm",
   {
     stagger: 0.2,
@@ -18,7 +18,7 @@ t1.from(
   "-=1"
 );
 
-t1.from(
+.from(
   "#hero img",
   {
     opacity: 0,
