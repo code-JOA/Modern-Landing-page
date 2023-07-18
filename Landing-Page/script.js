@@ -8,8 +8,9 @@ t1.from(".lrow", {
   x: 0,
 });
 
-.from(".lrow", {
+.from("#playbtn", {
   stagger: 0.2,
   opacity: 0,
   x: 0,
 });
+
