@@ -12,4 +12,4 @@
 
 ### letteringjs
 
-<img src="Landing-Page/image1.png"/>
+<img src="Landing-Page/image.png"/>
